@@ -16,7 +16,7 @@ Step 3: Use SGDRegressor wrapped in MultiOutputRegressor to train on the scaled 
 
 Step 4: Predict on test data, inverse transform the results, and calculate the mean squared error.
 ## Program:
-Name :HARSHITH.M
+Name : HARSHITH.M
 
 Reg no :  212224040206
 ```
